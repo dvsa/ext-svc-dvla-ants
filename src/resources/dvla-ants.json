@@ -1,6 +1,6 @@
 [
     {
-      "vechileId": "string",
+      "vehicleId": "string",
       "make": "string",
       "model": "string",
       "wheelPlan": "string",
@@ -9,7 +9,7 @@
       "platingDate": "string"
     },
     {
-        "vechileId": "string",
+        "vehicleId": "string",
         "make": "string",
         "model": "string",
         "wheelPlan": "string",
@@ -18,7 +18,7 @@
         "platingDate": "string"
       },
       {
-        "vechileId": "string",
+        "vehicleId": "string",
         "make": "string",
         "model": "string",
         "wheelPlan": "string",
@@ -27,7 +27,7 @@
         "platingDate": "string"
       },
       {
-        "vechileId": "string",
+        "vehicleId": "string",
         "make": "string",
         "model": "string",
         "wheelPlan": "string",
@@ -36,7 +36,7 @@
         "platingDate": "string"
       },
       {
-        "vechileId": "string",
+        "vehicleId": "string",
         "make": "string",
         "model": "string",
         "wheelPlan": "string",
