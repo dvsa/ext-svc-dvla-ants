@@ -1,0 +1,47 @@
+[
+    {
+      "vehicleId": "string",
+      "make": "string",
+      "model": "string",
+      "wheelPlan": "string",
+      "grossWeight": 0,
+      "doeReference": "string",
+      "platingDate": "string"
+    },
+    {
+        "vehicleId": "string",
+        "make": "string",
+        "model": "string",
+        "wheelPlan": "string",
+        "grossWeight": 0,
+        "doeReference": "string",
+        "platingDate": "string"
+      },
+      {
+        "vehicleId": "string",
+        "make": "string",
+        "model": "string",
+        "wheelPlan": "string",
+        "grossWeight": 0,
+        "doeReference": "string",
+        "platingDate": "string"
+      },
+      {
+        "vehicleId": "string",
+        "make": "string",
+        "model": "string",
+        "wheelPlan": "string",
+        "grossWeight": 0,
+        "doeReference": "string",
+        "platingDate": "string"
+      },
+      {
+        "vehicleId": "string",
+        "make": "string",
+        "model": "string",
+        "wheelPlan": "string",
+        "grossWeight": 0,
+        "doeReference": "string",
+        "platingDate": "string"
+      }
+  ]
